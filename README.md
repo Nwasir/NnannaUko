@@ -37,7 +37,7 @@ I started in customer care, and now I’m building AI tools that could one day *
 ---
 
 ## 📫 How to Reach Me
-- - ✉️ Email: [nnannauko@gmail.com](mailto:nnannauko@gmail.com)  
+- ✉️ Email: [nnannauko@gmail.com](mailto:nnannauko@gmail.com)  
 - 💼 LinkedIn: [Nnanna Arua Uko](https://www.linkedin.com/in/nnanna-arua-uko-42453821a)
 
 ---
