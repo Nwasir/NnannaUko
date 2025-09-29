@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nnanna Arua Uko
 
-🌱 **Aspiring AI Engineer | Web Developer | Open Source Contributor**  
+🌱 **AI & Web Developer | Building AI-powered tools, data pipelines & real-world projects**  
 💼 Background in **Customer Care** and **AI Data Quality Specialist**  
 📚 Currently learning **Python, FastAPI, Machine Learning, and AWS**  
 🚀 Passionate about building **AI-powered tools, data pipelines, and web apps**
