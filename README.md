@@ -32,7 +32,7 @@
 ---
 
 ## ⚡ Fun Fact
-I started in customer care, and now I’m building AI tools that could one day **automate customer support**!
+I started in customer Service, and now I’m building AI tools that could one day **automate customer support**!
 
 ---
 
